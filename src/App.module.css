@@ -1,0 +1,49 @@
+.App {
+  width: 320px;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: gold;
+  background-image: radial-gradient(
+      circle at 0px 0px,
+      rgba(256, 256, 256, 0.8) 10%,
+      rgba(256, 256, 256, 0.75) 10%,
+      rgba(256, 256, 256, 0.65) 20%,
+      rgba(256, 256, 256, 0.55) 20%,
+      rgba(256, 256, 256, 0.45) 30%,
+      rgba(256, 256, 256, 0.35) 30%,
+      rgba(256, 256, 256, 0.25) 40%,
+      rgba(256, 256, 256, 0.15) 40%,
+      rgba(256, 256, 256, 0.05) 50%,
+      rgba(256, 256, 256, 0) 100%
+    ),
+    radial-gradient(
+      circle at bottom right,
+      rgba(256, 256, 256, 0.75) 10%,
+      rgba(256, 256, 256, 0.65) 10%,
+      rgba(256, 256, 256, 0.55) 20%,
+      rgba(256, 256, 256, 0.45) 20%,
+      rgba(256, 256, 256, 0.35) 30%,
+      rgba(256, 256, 256, 0.25) 30%,
+      rgba(256, 256, 256, 0.15) 40%,
+      rgba(256, 256, 256, 0.05) 40%,
+      rgba(256, 256, 256, 0) 100%
+    );
+}
+
+@media screen and (min-width: 768px) {
+  .App {
+    width: 768px;
+    height: 100vh;
+    padding-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .App {
+    width: 1280px;
+  }
+}
