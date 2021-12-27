@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ask_Advice/static/css/main.9cf95879.css",
+    "main.js": "/Ask_Advice/static/js/main.d6ec2f08.js",
+    "static/media/bakground3.jpg": "/Ask_Advice/static/media/bakground3.8c8ee91ad713c2d6d4cc.jpg",
+    "static/media/notFound2.png": "/Ask_Advice/static/media/notFound2.44d6f2e6d01491cae044.png",
+    "static/media/advice_img2.jpg": "/Ask_Advice/static/media/advice_img2.1496f2b64c6a3e75fb1c.jpg",
+    "index.html": "/Ask_Advice/index.html",
+    "main.9cf95879.css.map": "/Ask_Advice/static/css/main.9cf95879.css.map",
+    "main.d6ec2f08.js.map": "/Ask_Advice/static/js/main.d6ec2f08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf95879.css",
+    "static/js/main.d6ec2f08.js"
+  ]
+}
